@@ -7,8 +7,8 @@ Clone the git directory.<br>
 $ git clone https://github.com/becrevex/Sscap.git<br>
 
 Current EXE checksum:<br>
-   MD5: ca75dd39a9afc57322d9718d480f754d                         
-   SHA-1: 21ea11863607565c83ad709a9cc85f12adada840<br>
+      MD5: ca75dd39a9afc57322d9718d480f754d                         
+      SHA-1: 21ea11863607565c83ad709a9cc85f12adada840
 
 # Execution
 c:\\> Sscap.exe [-pqi]<br>
@@ -20,7 +20,4 @@ Usage: Sscap.exe [-q] [-p] [-i|-interactive]<br>
 Current screen:
 <img align="center" src="https://github.com/becrevex/Sscap/blob/master/ss2020-22-3--04-20-23.jpg" width="700" height="500" />
 
-Installation and Use (ToDo)
 
-Upcoming Features:
-   1) ...
