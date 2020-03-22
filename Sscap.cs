@@ -5,6 +5,7 @@ using static System.Drawing.Graphics;
 using static System.Drawing.Bitmap;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
+using static System.DateTime;
 
 
 namespace ScreenShot
@@ -25,8 +26,8 @@ namespace ScreenShot
                                 0, 0,
                                 bmpScreenCapture.Size,
                                 CopyPixelOperation.SourceCopy);
-
-                bmpScreenCapture.Save("ss.jpg", ImageFormat.Jpeg);
+                String stampedFileName = "ss" + DateTime.Now.ToString("yyyy-dd-M--HH-mm-ss") + ".jpg";
+                bmpScreenCapture.Save(stampedFileName, ImageFormat.Jpeg);
             }            
 
         } 
