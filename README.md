@@ -7,7 +7,7 @@ Clone the git directory.<br>
 $ git clone https://github.com/becrevex/Sscap.git<br>
 
 Current EXE checksum:<br>
-   MD5: ca75dd39a9afc57322d9718d480f754d  <br>                           
+   MD5: ca75dd39a9afc57322d9718d480f754d                         
    SHA-1: 21ea11863607565c83ad709a9cc85f12adada840<br>
 
 # Execution
