@@ -1,4 +1,4 @@
-# Screenshot Capture Tool
+# Sscap -- Screenshot Capture Tool
 
 Screen shot capture utility takes a screenshot of the current screen and saves it to a jpeg. The program is written in C# and compiled (for your convienience).
 
